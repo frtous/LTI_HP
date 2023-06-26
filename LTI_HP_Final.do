@@ -10,10 +10,7 @@
 ** Shares of constrained banks and low-income borrowers by local area ===> Extracted from confidential information
 ** Counties ===> PUBLIC
 
-*global path "/Users/sbkg537/Library/CloudStorage/Dropbox/Research/Peydro_Tous_Uluc_Tripathy_Macropru/Published tables and figures/" // ADD PATH IN QUOTES ""
-*cd $path
-
-cd "/Users/sbkg537/Library/CloudStorage/Dropbox/Research/Peydro_Tous_Uluc_Tripathy_Macropru/Published tables and figures/"
+cd // Add path
 
 ********** Table 10A
 
